@@ -1,0 +1,26 @@
+YLL Rank,Disease Name,Prevalence,c1,s2
+1,Ischemic heart disease,8895.61,0.07,0.12
+2,Lung cancer,289.87,0.07,0.45
+3a,Ischemic stroke,3932.33,0.07,0.15
+3b,Hemorrhagic-other non-ischemic stroke,949.33,0.07,0.16
+4,Chronic obstructive pulmonary disease,32372.11,0.07,0.06
+7,Diabetes,23694.9,0.07,0.05
+8,Cirrhosis of the liver,78.37,0.07,0.49
+9,Alzheimers disease,5145.03,0.07,0.18
+10,Colorectal cancer,798.9,0.07,0.15
+11a,Pneumococcal pneumonia,84.14,0.07,0.3
+11b,Influenza,119.03,0.07,0.2
+11c,H influenzae type B pneumonia,21.15,0.07,0.26
+11d,Respiratory syncytial virus pneumonia,14.9,0.07,0.07
+13,Breast cancer,3885.25,0.07,0.05
+16,Chronic kidney disease,9919.02,0.07,0.04
+18,Pancreatic cancer,22.67,0.07,0.71
+20,Cardiomyopathy,416.31,0.07,0.17
+21,Hypertensive heart disease,185.26,0.07,0.27
+22,Leukemia,139.75,0.07,0.21
+23,HIV-AIDS,1159.58,0.07,0.1
+24,Kidney cancers,328.94,0.07,0.12
+25,Non-Hodgkin lymphoma,282.94,0.07,0.13
+27,Prostate cancer,3709.7,0.07,0.05
+28,Brain and nervous system cancers,59.76,0.07,0.3
+30,Liver cancer,31.27,0.07,0.44
