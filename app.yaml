@@ -1,1 +1,2 @@
 runtime: python37 # or python37 for Python 3.7
+entrypoint: gunicorn -b:$PORT BDA_GUI:app
