@@ -558,4 +558,4 @@ def main():
     curdoc().title = "Is the FDA too conservative or too aggressive?"
 
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=8080, debug=True)
+    main()
