@@ -181,7 +181,7 @@ def Run_BDA(c_1, s_2, k, N, Disease_Name, Disease_Rank, sigma, p_H0, maxPower, k
     delta_x, delta_y, x_interv = 10, 4, 500
     max_n = round(n_con, 0)
 #         n_x = np.arange(max(0.0, max_n - x_interv), max_n + x_interv, delta_x)
-    n_x = np.arange(max(0.0, max_n - 1), max_n + 1, 0)
+    n_x = np.arange(max(0.0, max_n - 1), max_n + 1, 1)
     lambda_y = np.arange(-1.0, 3.0, delta_y)
     n_X, lambda_Y = np.meshgrid(n_x, lambda_y)
 
